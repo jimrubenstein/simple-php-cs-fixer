@@ -2,6 +2,12 @@
 
 None of the other php-cs-fixer extensions worked the way I wanted them to. I basically want something that runs php-cs-fixer exactly as I would from the command line, but with an option for custom config, and running on save.
 
+# Installation
+
+1. `git clone git@github.com:jimrubenstein/simple-php-cs-fixer.git ~/.vscode/extensions/jimrubenstein.simple-php-cs-fixer`
+
+2. Reload VSCode
+
 ![Demo Gif](demo.gif)
 
 ---
