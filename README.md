@@ -8,6 +8,8 @@ None of the other php-cs-fixer extensions worked the way I wanted them to. I bas
 
 2. Reload VSCode
 
+** Note ** : Package requires the `php-cs-fixer` utility to be installed. Instructions available here: [github.com/FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer#globally-composer)
+
 ![Demo Gif](demo.gif)
 
 ---
